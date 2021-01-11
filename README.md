@@ -16,7 +16,10 @@
 
 ![2](https://user-images.githubusercontent.com/71088270/104146612-539db400-53f1-11eb-8ee3-e25ccf6b0c6e.PNG)
 
-### **Select the Required Screen that you want to Record. For this Example i will be selecting The Entire Screen** :dragon_face:  
+### **Select the Required Screen that you want to Record. For this Example i will be selecting The Entire Screen** :cherry_blossom:  
+
+![2 2](https://user-images.githubusercontent.com/71088270/104146995-a5930980-53f2-11eb-859f-4a9b53c30f5a.png)
+
 ### **As shown below**
 
 ![3](https://user-images.githubusercontent.com/71088270/104146765-da529100-53f1-11eb-9d5e-e0b4fa973dbf.PNG)
