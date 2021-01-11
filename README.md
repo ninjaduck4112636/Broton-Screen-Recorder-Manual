@@ -3,12 +3,12 @@
 ## Recording video from screen :hibiscus:
 ### **This tutorial will show you how to record and save a video from what's happening on your screen.**
 
-## 1. Open the Broton Screen Recorder Software :bulb:
+## 1. Open the Broton Screen Recorder Software :rainbow:
 ### **You will be presented with the below shown Screen.**  
 
 ![1](https://user-images.githubusercontent.com/71088270/104145296-68c41400-53ec-11eb-89f1-278c8e83a233.PNG)
 
-## 2. Click on **"SELECT A VIDEO SOURCE"** button :monkey_face:
+## 2. Click on **"SELECT A VIDEO SOURCE"** button :doughnut:
 
 ![1 1](https://user-images.githubusercontent.com/71088270/104146539-205b2500-53f1-11eb-93ce-e999afe1b37d.png)
 
