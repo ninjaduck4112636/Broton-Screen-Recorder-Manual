@@ -1,4 +1,4 @@
-# Broton-Screen-Recorder-Manual
+# Broton-Screen-Recorder-Manual :vhs:
 
 ## Recording video from screen
 **This tutorial will show you how to record and save a video from what's happening on your screen.**
