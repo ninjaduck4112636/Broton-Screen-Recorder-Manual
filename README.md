@@ -8,7 +8,7 @@
 
 ![1](https://user-images.githubusercontent.com/71088270/104145296-68c41400-53ec-11eb-89f1-278c8e83a233.PNG)
 
-## 1. Click on SELECT A VIDEO SOURCE button :monkey_face:
+## 1. Click on **"SELECT A VIDEO SOURCE"** button :monkey_face:
 
 ![1 1](https://user-images.githubusercontent.com/71088270/104146539-205b2500-53f1-11eb-93ce-e999afe1b37d.png)
 
