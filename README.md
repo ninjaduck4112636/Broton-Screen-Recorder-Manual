@@ -24,5 +24,22 @@
 
 ![3](https://user-images.githubusercontent.com/71088270/104146765-da529100-53f1-11eb-9d5e-e0b4fa973dbf.PNG)
 
-### 5. **Now Click on the Record button to Start Recording your PC / Laptop Screen** :cake:
+### 5. **Now Click on the Record button to Start Recording your PC / Laptop Screen** :earth_americas:
+### *Note: You can observe that the "START RECORDING" button has changed to "RECORDING", Now the Screen has Started Recording*
 
+![4](https://user-images.githubusercontent.com/71088270/104147200-61eccf80-53f3-11eb-812a-5c4ac835f3b2.PNG)
+
+### 6. **When you're ready to finish your recording, click "STOP RECORDING"** :zap:
+
+![4 4](https://user-images.githubusercontent.com/71088270/104147485-7da4a580-53f4-11eb-8d99-e1560e8bf86c.png)
+
+### 7. **To save the Video the pop up Window will Automatically Appear** :jack_o_lantern:
+
+![5](https://user-images.githubusercontent.com/71088270/104147541-c2304100-53f4-11eb-8f60-3d7f9339b86c.PNG)
+
+### 8. **Select the file Location, to save the Recording and click "Save Video" button** :trophy:
+
+![5 5](https://user-images.githubusercontent.com/71088270/104147671-47b3f100-53f5-11eb-9505-7faeb8a27de8.png)
+
+### 8. **Now the Video will be Saved in that particular Location** :ribbon:
+### *Note: It is recommended to use VLC video player to Play the Recording's.*
