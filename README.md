@@ -41,5 +41,5 @@
 
 ![5 5](https://user-images.githubusercontent.com/71088270/104147671-47b3f100-53f5-11eb-9505-7faeb8a27de8.png)
 
-### 8. **Now the Video will be Saved in that particular Location** :ribbon:
+### 9. **Now the Video will be Saved in that particular Location** :ribbon:
 ### *Note: It is recommended to use VLC video player to Play the Recording's.*
