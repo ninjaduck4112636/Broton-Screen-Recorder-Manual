@@ -1,46 +1,46 @@
-# Broton-Screen-Recorder-Manual :v:
+# broton recorder. manual :v:
 
-## Recording video from screen :hibiscus:
-### **This tutorial will show you how to record and save a video from what's happening on your screen.**
+## recording video from screen :hibiscus:
+### **this tutorial i will show you how to record and save a video from what's happening on your screen.**
 
-## 1. Open the Broton Screen Recorder Software :rainbow:
-### **You will be presented with the below shown Screen.**  
+## 1. open the broton recorder. software :rainbow:
+### **you will be presented with the below shown screen.**  
 
-![1](https://user-images.githubusercontent.com/71088270/104145296-68c41400-53ec-11eb-89f1-278c8e83a233.PNG)
+![1](https://user-images.githubusercontent.com/71088270/119770538-2c5ff480-be71-11eb-8dc8-15b8b925d3ee.PNG)
 
-## 2. Click on **"SELECT A VIDEO SOURCE"** button :doughnut:
+## 2. click on **"select a video source"** button :doughnut:
 
-![1 1](https://user-images.githubusercontent.com/71088270/104146539-205b2500-53f1-11eb-93ce-e999afe1b37d.png)
+![1 1](https://user-images.githubusercontent.com/71088270/119770624-47caff80-be71-11eb-86f5-59bfea816ff7.png)
 
-## 3. **You will be presented with the below shown Screen.**:cactus:  
+## 3. **you will be presented with the below shown screen.**:cactus:  
 
-![2](https://user-images.githubusercontent.com/71088270/104146612-539db400-53f1-11eb-8ee3-e25ccf6b0c6e.PNG)
+![2](https://user-images.githubusercontent.com/71088270/119770692-64673780-be71-11eb-9038-c84407cf304c.PNG)
 
-## 4. **Select the Required Screen that you want to Record. For this Example i will be selecting the "Entire Screen"** :cherry_blossom:  
+## 4. **select the required screen that you want to record. for this example i will be selecting the "entire screen"** :cherry_blossom:  
 
-![2 2](https://user-images.githubusercontent.com/71088270/104146995-a5930980-53f2-11eb-859f-4a9b53c30f5a.png)
+![2 2](https://user-images.githubusercontent.com/71088270/119770782-8496f680-be71-11eb-87bd-0836b42e63e5.png)
 
-## 5. **As shown below** :orange:
-### *Note: You can observe that the "SELECT THE VIDEO SOURCE" button has changed to the selected screen name in my case it is "ENTIRE SCREEN"*
+## 5. **as shown below** :orange:
+### *note: you can observe that the "select the video source" button has changed to the selected screen name in my case it is "entire screen"*
 
-![3](https://user-images.githubusercontent.com/71088270/104146765-da529100-53f1-11eb-9d5e-e0b4fa973dbf.PNG)
+![3](https://user-images.githubusercontent.com/71088270/119770878-a98b6980-be71-11eb-9098-b03a688b77ee.PNG)
 
-## 6. **Now Click on the Record button to Start Recording your PC / Laptop Screen** :earth_americas:
-### *Note: You can observe that the "START RECORDING" button has changed to "RECORDING", Now the Screen has Started Recording*
+## 6. **now click on the record button to start recording your PC or laptop screen** :earth_americas:
+### *Note: You can observe that the "start" button has changed to "recording", now the screen has started recording*
 
-![4](https://user-images.githubusercontent.com/71088270/104147200-61eccf80-53f3-11eb-812a-5c4ac835f3b2.PNG)
+![4](https://user-images.githubusercontent.com/71088270/119771043-e8b9ba80-be71-11eb-8474-cf138d66c84a.PNG)
 
-## 7. **When you're ready to finish your recording, click "STOP RECORDING"** :zap:
+## 7. **when you're ready to finish your recording, click "stop"** :zap:
 
-![4 4](https://user-images.githubusercontent.com/71088270/104147485-7da4a580-53f4-11eb-8d99-e1560e8bf86c.png)
+![4 1](https://user-images.githubusercontent.com/71088270/119771096-fff8a800-be71-11eb-9308-f428c57bd641.png)
 
-## 8. **To save the Video the pop up Window will Automatically Appear** :jack_o_lantern:
+## 8. **to save the video the pop up window will automatically appear** :jack_o_lantern:
 
 ![5](https://user-images.githubusercontent.com/71088270/104147541-c2304100-53f4-11eb-8f60-3d7f9339b86c.PNG)
 
-## 9. **Select the file Location, to save the Recording and click "Save Video" button** :trophy:
+## 9. **select the file location, to save the recording and click "save video" button** :trophy:
 
 ![5 5](https://user-images.githubusercontent.com/71088270/104147671-47b3f100-53f5-11eb-9505-7faeb8a27de8.png)
 
-## 10. **Now the Video will be Saved in that particular Location** :tulip:
-### <p>Note: It is recommended to use VLC video player to Play the Recording's.</p>
+## 10. **now the video will be saved in that particular location** :tulip:
+### <p>note: it is recommended to use VLC video player to play the recording's.</p>
