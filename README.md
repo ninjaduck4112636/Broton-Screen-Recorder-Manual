@@ -38,9 +38,9 @@
 
 ![5](https://user-images.githubusercontent.com/71088270/104147541-c2304100-53f4-11eb-8f60-3d7f9339b86c.PNG)
 
-## 9. **select the file location, to save the recording and click "save video" button** :trophy:
+## 9. **select the file location, to save the recording and click "save video" button** :clap:
 
 ![5 5](https://user-images.githubusercontent.com/71088270/104147671-47b3f100-53f5-11eb-9505-7faeb8a27de8.png)
 
-## 10. **now the video will be saved in that particular location** :tulip:
+## 10. **now the video will be saved in that particular location** :cloud_with_lightning:
 ### <p>note: it is recommended to use VLC video player to play the recording's.</p>
