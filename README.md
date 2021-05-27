@@ -45,4 +45,4 @@
 ## 10. **now the video will be saved in that particular location** :cloud_with_lightning:
 ### <p>note: it is recommended to use VLC video player to play the recording's.</p>
 
-### ```please consider donating to this project, for further development. :pleading_face:```
+### ```please consider donating to this project, for further development.```
