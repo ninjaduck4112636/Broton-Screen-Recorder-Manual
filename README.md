@@ -1,4 +1,5 @@
 # broton recorder. manual :v:
+### ```please consider donating to this project, for further development.```
 
 ## recording video from screen :hibiscus:
 ### **this tutorial i will show you how to record and save a video from what's happening on your screen.**
