@@ -1,7 +1,7 @@
 # broton recorder. manual :v:
 ### ```please consider donating to this project, for further development.```
 
-### **this tutorial i will show you how to record and save a video from what's happening on your screen.** :hibiscus:
+### **here i will demonstrate how to record and save video from what's happening on your screen.** :hibiscus:
 
 ## 1. open the broton recorder. software :rainbow:
 ### **you will be presented with the below shown screen.**  
