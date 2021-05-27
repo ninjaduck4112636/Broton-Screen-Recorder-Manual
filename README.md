@@ -25,7 +25,7 @@
 
 ![3](https://user-images.githubusercontent.com/71088270/119770878-a98b6980-be71-11eb-9098-b03a688b77ee.PNG)
 
-## 6. **now click on the record button to start recording your PC or laptop screen** :earth_americas:
+## 6. **now click on the start button to start recording your PC or laptop screen** :earth_americas:
 ### *Note: You can observe that the "start" button has changed to "recording", now the screen has started recording*
 
 ![4](https://user-images.githubusercontent.com/71088270/119771043-e8b9ba80-be71-11eb-8474-cf138d66c84a.PNG)
